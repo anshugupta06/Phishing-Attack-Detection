@@ -59,6 +59,7 @@ future updates and integration of new detection techniques. Ultimately, this pro
 robust and scalable solution that significantly reduces the risk and impact of phishing attacks.
 
 Progress Overview 
+
 •Completed the data collection and cleaning. 
 
 •Completed the feature extraction using SelectKBest method. 
